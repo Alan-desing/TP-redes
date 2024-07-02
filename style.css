@@ -1,0 +1,21 @@
+.texto-mod{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 50px;
+}
+
+.texto-mod-2{
+    font-size: 30px;
+}
+
+.tamaño-lista{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
