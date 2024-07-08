@@ -5,7 +5,8 @@
 }
 
 .texto-mod-2{
-    font-size: 30px;
+    font-size: 60px;
+    text-align: center;
 }
 
 .tamaño-lista{
@@ -18,4 +19,8 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 100px;
     margin-right: 100px;
+}
+
+.RN{
+    background-color: rgb(128,0,0)
 }
