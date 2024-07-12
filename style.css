@@ -54,6 +54,13 @@ background-color: rgb(150,111,86);
 }
 
 h2{
-    font-size:larger;
+    font-size:40px;
 }
 
+.Fondo-negro{
+color: white;
+}
+
+body{
+    background-color: rgb(233, 81, 81);
+}
