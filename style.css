@@ -139,5 +139,12 @@ color: white;
 }
 
 body{
-    background-color: rgb(233, 81, 81);
+    background-image: url("fondo-musica2.PNG");
+    background-size:cover;
+}
+
+.fondo-principal{
+    background-color: white;
+    padding-left: 500px;
+    padding-right: 500px;
 }
