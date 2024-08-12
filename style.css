@@ -135,16 +135,31 @@ h2{
 }
 
 .Fondo{
-color: white;
+color: black;
+background-color: rgba(46, 241, 39, 0.6);
+display: inline-block;
 }
 
+#bloque{
+    text-align: center;
+}
 body{
     background-image: url("fondo-musica2.PNG");
     background-size:cover;
 }
 
 .fondo-principal{
-    background-color: white;
+    background-color: goldenrod;
     padding-left: 500px;
     padding-right: 500px;
 }
+
+.texto-centrado{
+    text-align: center;
+    background-color: goldenrod;
+}
+
+#pad{
+    padding-right:750px ;
+}
+
